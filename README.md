@@ -10,7 +10,7 @@ Dependencies:
 Build with cargo
 
 ```bash
-git clone git@github.com:sbwtw/Filecoin-webapi.git
+git clone git@github.com:YST-GG/filecoin-api.git
 cargo build --release
 ```
 
